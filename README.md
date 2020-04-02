@@ -28,6 +28,8 @@ $ git clone https://github.com/TiagoDiass/be-the-hero.git
 $ cd be-the-hero
 ```
 
+Após isso abra 3 janelas do seu terminal(CMD, git bash, etc) na raiz do projeto, e utilize uma para iniciar o back-end, uma para o front-end e outra para o mobile, siga os passos abaixo:
+
 ### Iniciando o back-end
 ```bash
 # Entre no back-end
@@ -68,3 +70,7 @@ $ npm install
 # Inicie a aplicação
 $ npm start
 ```
+
+Após ter realizado todos estes passos, o front-end estará disponível na porta 3000(a não ser que você tenha configurado outra porta), basta digitar "localhost:3000" na barra de endereços de seu navegador.
+
+Para utilizar a versão mobile, basta instalar o app Expo([Android](https://play.google.com/store/apps/details?id=host.exp.exponent)/[iOS](https://apps.apple.com/us/app/expo-client/id982107779)) no seu celular, após instalar escaneie o QR Code que apareceu em seu terminal, ou você pode escanear o QR Code que está na guia que seu navegador abriu após ter iniciado o mobile(caso a guia não tenha sido aberta, ela está disponível no endereço "localhost:19002")
