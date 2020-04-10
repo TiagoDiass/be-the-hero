@@ -12,11 +12,20 @@
 
 Este é um projeto que foi desenvolvido durante a semana <strong>OmniStack 11.0</strong>, e que resumidamente, tem como objetivo fazer com que pessoas possam ter uma forma de ajudar ONGs a conseguirem ajuda financeira para se manterem abertas, continuando com seu trabalho.
 
-
 ## Funcionamento da aplicação :on:
 
 O funcionamento da aplicação se basea em duas entidades, pessoas comuns, e ONGs. ONGs podem registrar casos(que dentro do código estão com o nome de incidents)utilizando a aplicação na versão web, registrando um título, descrição, valor e afins. As pessoas comuns podem usar a aplicação em seus dispositos móveis, onde uma listagem de todos os casos será feita, e após isso a pessoa pode entrar em contato com a ONG por Whatsapp ou E-mail, e assim a pessoa pode se tornar o herói de um caso, ajudando a ONG com determinado valor monetário.
 
+## Resultado final :framed_picture:
+   ### Pequeno video com o resultado final e o funcionamento da aplicação :film_strip:
+   Eu também fiz um pequeno video da aplicação rodando, você pode vê-lo clicando aqui: https://youtu.be/U_HKFQ53vhA
+
+   ### Mobile :iphone:
+   <img src="./Screenshots/Screenshot_Mobile_1.jpg" width="250"> <img src="./Screenshots/Screenshot_Mobile_2.jpg" width="250"> <img src="./Screenshots/Screenshot_Mobile_3.jpg" width="250">
+   
+   ### Web :computer:
+   <img src="./Screenshots/Screenshot_1.png" width="430"> <img src="./Screenshots/Screenshot_2.png" width="430"> <img src="./Screenshots/Screenshot_3.png" width="430"> <img src="./Screenshots/Screenshot_4.png" width="430">
+   
 ## Como executar o projeto em sua máquina :arrow_forward:
 
 Para utilizar a aplicação, você precisará ter o [Git](https://git-scm.com) e o [Node.JS/NPM](https://nodejs.org/en/) instalados em seu computador.
