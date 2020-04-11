@@ -21,10 +21,10 @@ O funcionamento da aplicação se basea em duas entidades, pessoas comuns, e ONG
    Eu também fiz um pequeno video da aplicação rodando, você pode vê-lo clicando aqui: https://youtu.be/U_HKFQ53vhA
 
    ### Mobile :iphone:
-   <img src="./Screenshots/Screenshot_Mobile_1.jpg" width="250"> <img src="./Screenshots/Screenshot_Mobile_2.jpg" width="250"> <img src="./Screenshots/Screenshot_Mobile_3.jpg" width="250">
+   <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_Mobile_1.jpg" width="250" alt="Screenshot Mobile 1"> <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_Mobile_2.jpg" width="250" alt="Screenshot Mobile 2"> <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_Mobile_3.jpg" width="250" alt="Screenshot Mobile 3">
    
    ### Web :computer:
-   <img src="./Screenshots/Screenshot_1.png" width="430"> <img src="./Screenshots/Screenshot_2.png" width="430"> <img src="./Screenshots/Screenshot_3.png" width="430"> <img src="./Screenshots/Screenshot_4.png" width="430">
+   <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_1.png" width="430"> <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_2.png" width="430"> <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_3.png" width="430"> <img src="https://raw.githubusercontent.com/TiagoDiass/be-the-hero/master/Screenshots/Screenshot_4.png" width="430">
    
 ## Como executar o projeto em sua máquina :arrow_forward:
 
